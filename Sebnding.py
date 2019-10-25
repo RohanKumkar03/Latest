@@ -3,7 +3,7 @@ from email.mime.text import MIMEText
 from email.utils import formatdate
 
 FROM_ADDRESS = 'kumkarrohan@gmail.com'
-MY_PASSWORD = 'RohKum03'
+MY_PASSWORD = '********'
 TO_ADDRESS = 'rohan.kumkar-ext@conti.de'
 BCC = 'kumkarrohan@gmail.com'
 SUBJECT = 'Gmail SMTP'
